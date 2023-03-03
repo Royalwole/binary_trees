@@ -1,5 +1,6 @@
 #include "heap.h"
 #include <stdlib.h>
+#include "binary_trees.h"
 
 /**
  * swap - Swaps two nodes in a heap
